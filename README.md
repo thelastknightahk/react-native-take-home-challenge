@@ -10,6 +10,9 @@
 ## Requirements
 
 - [ ] Able to export apk or ipa (if you are using expo please use bare workflow)
+- [ ] Create Login screen (doesn't include in design so can use simple design screen)
+  - [ ] Implementing Authentication flow (api doesn't require authentication but you can include authentication header for simple demonstration)
+  - [ ] Using react native navigation to navigate login to home page
 - [ ] Card list:
   - [ ] Implement search/filter (**optional**):
     - [ ] Name
@@ -43,7 +46,6 @@ The following are some strategies to leave us with a better impression. But reme
 
 - UI should look like as figma for both android & ios
 - Using [react native navigation](https://reactnavigation.org/) for pop up modal
-- Implementing Authentication flow (api doesn't require authentication but you can include authentication header for simple demonstration)
 - Using [react query](https://tanstack.com/query/latest/docs/react/overview)
 - Using React hooks
 - Using TypeScript
