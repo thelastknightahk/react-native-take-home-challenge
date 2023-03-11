@@ -3,7 +3,7 @@
 ## Resources
 
 - API: [Pokemon TCG](https://pokemontcg.io)
-- Design:
+- Design (Mobile screen only):
   - prototype: <https://www.figma.com/proto/GEbDoXIEkMvK8UrJlcz7Z7/Pokemon-TCG-Marketplace?node-id=1%3A34&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A34&show-proto-sidebar=1>
 
 
